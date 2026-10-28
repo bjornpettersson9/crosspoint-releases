@@ -1,0 +1,31 @@
+{
+  "app": "Crosspoint",
+  "generated": "2026-10-28T07:43:07.956Z",
+  "releases": [
+    {
+      "version": "0.2.0-beta.5",
+      "tag": "v0.2.0-beta.5",
+      "name": "Crosspoint 0.2.0-beta.5 (bèta)",
+      "notes": "## What's Changed\n* Updates: vaste bron is de openbare release-repo crosspoint-releases by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/38\n* Test kleur volgt ATEM: wachten tot de server antwoordt (release-run 8 faalde) by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/39\n\n\n**Full Changelog**: https://github.com/bjornpettersson9/Crosspoint/compare/v0.2.0-beta.4...v0.2.0-beta.5",
+      "published": "2026-10-28T07:43:07Z",
+      "beta": true,
+      "assets": [
+        {
+          "name": "Crosspoint-0.2.0-beta.5-mac-arm64.zip",
+          "size": 113317535,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.5/Crosspoint-0.2.0-beta.5-mac-arm64.zip"
+        },
+        {
+          "name": "crosspoint-server-0.2.0-beta.5.tgz",
+          "size": 1229904,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.5/crosspoint-server-0.2.0-beta.5.tgz"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "size": 205,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.5/SHA256SUMS.txt"
+        }
+      ]
+    }
+  ]
+}
