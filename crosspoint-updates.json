@@ -1,7 +1,32 @@
 {
   "app": "Crosspoint",
-  "generated": "2026-10-28T07:43:07.956Z",
+  "generated": "2026-10-28T10:22:37.213Z",
   "releases": [
+    {
+      "version": "0.2.0-beta.6",
+      "tag": "v0.2.0-beta.6",
+      "name": "Crosspoint 0.2.0-beta.6 (bèta)",
+      "notes": "## What's Changed\n* Crosspoint audit by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/40\n\n\n**Full Changelog**: https://github.com/bjornpettersson9/Crosspoint/compare/v0.2.0-beta.5...v0.2.0-beta.6",
+      "published": "2026-10-28T10:22:36Z",
+      "beta": true,
+      "assets": [
+        {
+          "name": "Crosspoint-0.2.0-beta.6-mac-arm64.zip",
+          "size": 113324477,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.6/Crosspoint-0.2.0-beta.6-mac-arm64.zip"
+        },
+        {
+          "name": "crosspoint-server-0.2.0-beta.6.tgz",
+          "size": 1237558,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.6/crosspoint-server-0.2.0-beta.6.tgz"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "size": 205,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.6/SHA256SUMS.txt"
+        }
+      ]
+    },
     {
       "version": "0.2.0-beta.5",
       "tag": "v0.2.0-beta.5",
