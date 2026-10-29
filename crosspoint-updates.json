@@ -1,7 +1,37 @@
 {
   "app": "Crosspoint",
-  "generated": "2026-10-28T10:22:37.213Z",
+  "generated": "2026-10-29T11:19:39.244Z",
   "releases": [
+    {
+      "version": "0.2.0-beta.7",
+      "tag": "v0.2.0-beta.7",
+      "name": "Crosspoint 0.2.0-beta.7 (bèta)",
+      "notes": "## What's Changed\n* 0.2.0-beta.7: alarmen, virtuals volgen, devices-indeling, shuffle-matrix, multiviewer-pagina en meer by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/41\n\n\n**Full Changelog**: https://github.com/bjornpettersson9/Crosspoint/compare/v0.2.0-beta.6...v0.2.0-beta.7",
+      "published": "2026-10-29T11:19:38Z",
+      "beta": true,
+      "assets": [
+        {
+          "name": "Crosspoint-0.2.0-beta.7-mac-arm64.dmg",
+          "size": 125633717,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.7/Crosspoint-0.2.0-beta.7-mac-arm64.dmg"
+        },
+        {
+          "name": "Crosspoint-0.2.0-beta.7-mac-arm64.zip",
+          "size": 113355834,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.7/Crosspoint-0.2.0-beta.7-mac-arm64.zip"
+        },
+        {
+          "name": "crosspoint-server-0.2.0-beta.7.tgz",
+          "size": 1268031,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.7/crosspoint-server-0.2.0-beta.7.tgz"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "size": 309,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.7/SHA256SUMS.txt"
+        }
+      ]
+    },
     {
       "version": "0.2.0-beta.6",
       "tag": "v0.2.0-beta.6",
