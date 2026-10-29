@@ -1,7 +1,37 @@
 {
   "app": "Crosspoint",
-  "generated": "2026-10-29T11:19:39.244Z",
+  "generated": "2026-10-29T22:27:29.716Z",
   "releases": [
+    {
+      "version": "0.2.0-beta.8",
+      "tag": "v0.2.0-beta.8",
+      "name": "Crosspoint 0.2.0-beta.8 (bèta)",
+      "notes": "## What's Changed\n* Crosspoint audit by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/42\n\n\n**Full Changelog**: https://github.com/bjornpettersson9/Crosspoint/compare/v0.2.0-beta.7...v0.2.0-beta.8",
+      "published": "2026-10-29T22:27:29Z",
+      "beta": true,
+      "assets": [
+        {
+          "name": "Crosspoint-0.2.0-beta.8-mac-arm64.dmg",
+          "size": 125639871,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.8/Crosspoint-0.2.0-beta.8-mac-arm64.dmg"
+        },
+        {
+          "name": "Crosspoint-0.2.0-beta.8-mac-arm64.zip",
+          "size": 113357338,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.8/Crosspoint-0.2.0-beta.8-mac-arm64.zip"
+        },
+        {
+          "name": "crosspoint-server-0.2.0-beta.8.tgz",
+          "size": 1269933,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.8/crosspoint-server-0.2.0-beta.8.tgz"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "size": 309,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.8/SHA256SUMS.txt"
+        }
+      ]
+    },
     {
       "version": "0.2.0-beta.7",
       "tag": "v0.2.0-beta.7",
