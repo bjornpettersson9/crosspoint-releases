@@ -1,37 +1,7 @@
 {
   "app": "Crosspoint",
-  "generated": "2026-11-02T21:46:49.169Z",
+  "generated": "2026-11-03T10:28:40.580Z",
   "releases": [
-    {
-      "version": "0.2.0-beta.11",
-      "tag": "v0.2.0-beta.11",
-      "name": "Crosspoint 0.2.0-beta.11 (bèta)",
-      "notes": "## What's Changed\n* Review 31 okt: één regelmotor, variabelen, driver-manifest, netwerkhulp en snel bewerken by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/46\n\n\n**Full Changelog**: https://github.com/bjornpettersson9/Crosspoint/compare/v0.2.0-beta.10...v0.2.0-beta.11",
-      "published": "2026-11-02T21:46:48Z",
-      "beta": true,
-      "assets": [
-        {
-          "name": "Crosspoint-0.2.0-beta.11-mac-arm64.dmg",
-          "size": 162136232,
-          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/Crosspoint-0.2.0-beta.11-mac-arm64.dmg"
-        },
-        {
-          "name": "Crosspoint-0.2.0-beta.11-mac-arm64.zip",
-          "size": 146332785,
-          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/Crosspoint-0.2.0-beta.11-mac-arm64.zip"
-        },
-        {
-          "name": "Crosspoint-0.2.0-beta.11-win-x64-setup.exe",
-          "size": 131381525,
-          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/Crosspoint-0.2.0-beta.11-win-x64-setup.exe"
-        },
-        {
-          "name": "SHA256SUMS.txt",
-          "size": 319,
-          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/SHA256SUMS.txt"
-        }
-      ]
-    },
     {
       "version": "0.2.0-beta.9",
       "tag": "v0.2.0-beta.9",
@@ -169,6 +139,66 @@
           "name": "SHA256SUMS.txt",
           "size": 205,
           "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.5/SHA256SUMS.txt"
+        }
+      ]
+    },
+    {
+      "version": "0.2.0-beta.12",
+      "tag": "v0.2.0-beta.12",
+      "name": "Crosspoint 0.2.0-beta.12 (bèta)",
+      "notes": "## What's Changed\n* Beheer: één offline-melding en serverteksten in het Engels by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/47\n\n\n**Full Changelog**: https://github.com/bjornpettersson9/Crosspoint/compare/v0.2.0-beta.11...v0.2.0-beta.12",
+      "published": "2026-11-03T10:28:39Z",
+      "beta": true,
+      "assets": [
+        {
+          "name": "Crosspoint-0.2.0-beta.12-mac-arm64.dmg",
+          "size": 162099378,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.12/Crosspoint-0.2.0-beta.12-mac-arm64.dmg"
+        },
+        {
+          "name": "Crosspoint-0.2.0-beta.12-mac-arm64.zip",
+          "size": 146352084,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.12/Crosspoint-0.2.0-beta.12-mac-arm64.zip"
+        },
+        {
+          "name": "Crosspoint-0.2.0-beta.12-win-x64-setup.exe",
+          "size": 131399043,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.12/Crosspoint-0.2.0-beta.12-win-x64-setup.exe"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "size": 319,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.12/SHA256SUMS.txt"
+        }
+      ]
+    },
+    {
+      "version": "0.2.0-beta.11",
+      "tag": "v0.2.0-beta.11",
+      "name": "Crosspoint 0.2.0-beta.11 (bèta)",
+      "notes": "## What's Changed\n* Review 31 okt: één regelmotor, variabelen, driver-manifest, netwerkhulp en snel bewerken by @bjornpettersson9 in https://github.com/bjornpettersson9/Crosspoint/pull/46\n\n\n**Full Changelog**: https://github.com/bjornpettersson9/Crosspoint/compare/v0.2.0-beta.10...v0.2.0-beta.11",
+      "published": "2026-11-02T21:46:48Z",
+      "beta": true,
+      "assets": [
+        {
+          "name": "Crosspoint-0.2.0-beta.11-mac-arm64.dmg",
+          "size": 162136232,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/Crosspoint-0.2.0-beta.11-mac-arm64.dmg"
+        },
+        {
+          "name": "Crosspoint-0.2.0-beta.11-mac-arm64.zip",
+          "size": 146332785,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/Crosspoint-0.2.0-beta.11-mac-arm64.zip"
+        },
+        {
+          "name": "Crosspoint-0.2.0-beta.11-win-x64-setup.exe",
+          "size": 131381525,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/Crosspoint-0.2.0-beta.11-win-x64-setup.exe"
+        },
+        {
+          "name": "SHA256SUMS.txt",
+          "size": 319,
+          "url": "https://github.com/bjornpettersson9/crosspoint-releases/releases/download/v0.2.0-beta.11/SHA256SUMS.txt"
         }
       ]
     },
